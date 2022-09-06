@@ -8,7 +8,7 @@ Estarei disponibilizando aqui os meus projetos desenvolvidos durante o aprendiza
 ### Projetos✔️  
 
 1. Calculadora em Python
-    - Projeto simples, via terminal;
+    - Projeto simples, via terminal.
 
 
 
