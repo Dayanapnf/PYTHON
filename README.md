@@ -3,7 +3,7 @@
 </div>
  
 <h1 align="center"> PYTHON</h1>
-Estarei disponibilizando aqui os meus projetos durante o aprendizado da linguagem Python.
+Estarei disponibilizando aqui, os meus projetos desenvolvidos durante o aprendizado da linguagem Python.
 
 ### Projetos✔️  
 
