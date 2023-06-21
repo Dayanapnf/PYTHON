@@ -9,13 +9,13 @@ op = 0
 while op != '1':
     print('--------------------------------------------------')
     print('                SEJA BEM-VINDO!')
-    print('        Calculador de Área de Paralelogramo       ')
-    print('--------------------------------------------------')
+    print('        Calculadora da Área do Paralelograma      ')
+    print('--------------------------------------------------')]
     print('Insira o comprimento da base:')
-    base = int(input())
+    base = float(input())
     print('--------------------------------------------------')
     print('Insira a altura:                                  ')
-    altura = int(input())
+    altura = float(input())
     print('--------------------------------------------------')
     calculadoradaarea(base, altura)
     print('--------------------------------------------------')
