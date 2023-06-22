@@ -10,7 +10,7 @@ while op != '1':
     print('--------------------------------------------------')
     print('                SEJA BEM-VINDO!')
     print('        Calculadora da Área do Paralelograma      ')
-    print('--------------------------------------------------')]
+    print('--------------------------------------------------')
     print('Insira o comprimento da base:')
     base = float(input())
     print('--------------------------------------------------')

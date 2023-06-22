@@ -1,0 +1,31 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	  {
+		"label": "Run BubbleSort",
+		"type": "shell",
+		"command": "${workspaceFolder}/BubbleSort/bubbleSort.py",
+		"group": {
+		  "kind": "build",
+		  "isDefault": true
+		},
+		"presentation": {
+		  "reveal": "always",
+		  "panel": "shared"
+		},
+		"options": {
+		  "cwd": "${workspaceFolder}",
+		  "env": {
+			"PYTHONPATH": "${workspaceFolder}/BubbleSort"
+		  }
+		},
+		"python": {
+		  "command": "${workspaceFolder}/.venv/meu_ambiente/Scripts/python",
+		  "args": [
+			"-u"
+		  ]
+		}
+	  }
+	]
+  }
+  
